@@ -116,7 +116,7 @@ const USER_CONFIG = {
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
       useTemplateId: 'Fg6XW1Fm9J5P58xVHJbxyMfn4ussjpRdyuQi2M4k0AU',
       // 所在省份或城市，也可以不填
-      province: '山西',
+      province: '',
       // 所在城市或县区
       city: '太原',
       // 新历生日, 仅用作获取星座运势, 格式必须
