@@ -141,10 +141,10 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2015-11-12' },
-//         // 结婚纪念日
-//         { keyword: 'marry_day', date: '2022-09-09' },
-//         // 退伍日
-//         { keyword: 'ex_day', date: '2022-09-10' }
+        // 笑笑生日
+        { keyword: 'xiaoxiao_birthday', date: '1996-11-28' },
+        // 超超生日
+        { keyword: 'chaochao_birthday', date: '1997-09-07' }
       ],
       // 课程表相关配置
       // 如果courseSchedule不存在或者为空（null）则认为没有课程
