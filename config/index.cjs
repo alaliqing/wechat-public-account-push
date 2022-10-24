@@ -94,7 +94,7 @@ const USER_CONFIG = {
   
   /** 是否给文字设置多彩颜色, 和emoji不兼容 */
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
-  IS_SHOW_COLOR: false,
+  IS_SHOW_COLOR: true,
   
   /** 每日一言 */
   // 每日一言的内容类型
@@ -114,7 +114,7 @@ const USER_CONFIG = {
       id: 'ofXps5sgcfzqk98BvPSTL1BsKa9g',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
-      useTemplateId: '',
+      useTemplateId: 'Fg6XW1Fm9J5P58xVHJbxyMfn4ussjpRdyuQi2M4k0AU',
       // 所在省份或城市，也可以不填
       province: '山西',
       // 所在城市或县区
