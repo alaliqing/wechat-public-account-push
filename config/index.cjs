@@ -114,7 +114,7 @@ const USER_CONFIG = {
       id: 'ofXps5sgcfzqk98BvPSTL1BsKa9g',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
-      useTemplateId: 'Fg6XW1Fm9J5P58xVHJbxyMfn4ussjpRdyuQi2M4k0AU',
+      useTemplateId: '2TQLC3SnTKrvw6vq49fz6Vz-cFj1bqOyY8OyD0CXKPM',
       // 所在省份或城市，也可以不填
       province: '',
       // 所在城市或县区
@@ -124,7 +124,7 @@ const USER_CONFIG = {
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
       horoscopeDateType: '今日',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: 'https://jandan.net',
+      openUrl: 'https://m.weixinyidu.com/today',
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         {
@@ -261,7 +261,7 @@ const USER_CONFIG = {
 
   // 使用微信测试号：【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   // 使用其他通道时，请填写 config/template-config.cjs 中【推送完成提醒】模板的id
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: 'CyJl3KEU_okmbI6xaDd7njZQgyvJiHQkiQ834ukkJhA',
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
