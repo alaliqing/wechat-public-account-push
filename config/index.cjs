@@ -114,7 +114,7 @@ const USER_CONFIG = {
       id: 'ofXps5sgcfzqk98BvPSTL1BsKa9g',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
-      useTemplateId: '2TQLC3SnTKrvw6vq49fz6Vz-cFj1bqOyY8OyD0CXKPM',
+      useTemplateId: 'KcceFZPrF9DBzdQq1Uo9hPVDHq3jxt6SUGjwR92YrZ8',
       // 所在省份或城市，也可以不填
       province: '',
       // 所在城市或县区
@@ -213,7 +213,7 @@ const USER_CONFIG = {
       },
     },
     {
-      name: '老婆1',
+      name: '1',
       id: '',
       useTemplateId: '',
       province: '',
@@ -226,7 +226,7 @@ const USER_CONFIG = {
       courseSchedule: null
     },
     {
-      name: '老婆2',
+      name: '2',
       id: '',
       useTemplateId: '',
       province: '',
@@ -239,7 +239,7 @@ const USER_CONFIG = {
       courseSchedule: null
     },
     {
-      name: '老婆3',
+      name: '3',
       id: '',
       useTemplateId: '',
       province: '',
